@@ -128,6 +128,7 @@ export function App() {
     }
   }
 
+  
   const handleAdding = (ev) => {
     ev.preventDefault()
     let newArr = [...arr]
